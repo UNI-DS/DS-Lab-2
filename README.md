@@ -1,5 +1,5 @@
-# MLDS-week-2
-## Week 2. Data Preprocessing. Visualization and Data Exploration
+# Practical Labs 2
+## Data Preprocessing. Visualization and Data Exploration
 
 ## Setup Instructions
 
